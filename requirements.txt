@@ -1,0 +1,12 @@
+langchain_groq
+langchain
+langchain-community
+langgraph
+openai
+faiss-cpu
+pydantic
+python-dotenv
+beautifulsoup4
+requests
+streamlit
+wikipedia
