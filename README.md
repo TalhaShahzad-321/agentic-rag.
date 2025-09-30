@@ -116,7 +116,3 @@ Agentic-RAG-System/
 ## 📝 License
 
 MIT License © [Talha Shahzad]
-
-```
-```
-
