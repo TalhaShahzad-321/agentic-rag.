@@ -1,9 +1,5 @@
-````markdown
-# 🤖 Agentic RAG System with ReAct Agent
 
-![Python](https://img.shields.io/badge/python-3.11+-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
+# 🤖 Agentic RAG System with ReAct Agent
 
 **A Retrieval-Augmented Generation (RAG) system using a ReAct agent for interactive document Q&A.**  
 Process PDFs, TXT files, and URLs, retrieve relevant content, and generate precise answers with references in a Streamlit UI.
@@ -11,10 +7,7 @@ Process PDFs, TXT files, and URLs, retrieve relevant content, and generate preci
 ---
 
 ## 🎬 Demo
-
-![Streamlit Demo](https://user-images.githubusercontent.com/yourusername/placeholder.gif)  
 *Ask questions directly on your documents and get instant answers!*
-
 ---
 
 ## 🌟 Features
@@ -126,3 +119,4 @@ MIT License © [Talha Shahzad]
 
 ```
 ```
+
